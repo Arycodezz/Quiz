@@ -18,12 +18,12 @@ const questions = [
         ]
     },
     {
-        question: "Where can you find Krish's pen(Used To Stab)",
+        question: "Which among the following cities of India does not fall in Torrid Zone?",
         answer: [
-            { text: "Obviously in his Pocket", checked: true },
-            { text: "Krish's Room", checked: false },
-            { text: "In your eye", checked: false },
-            { text: "In his hand", checked: false },
+            { text: "Chennai", checked: false },
+            { text: "Mumbai", checked: false },
+            { text: "Bangalore", checked: false },
+            { text: "Jaipur", checked: true },
         ]
     },
     {
